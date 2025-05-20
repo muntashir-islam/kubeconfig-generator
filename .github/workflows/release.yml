@@ -8,7 +8,7 @@ on:
       - master
 
 permissions:
-  contents: write  # Explicitly grant write permission to repository contents
+  contents: write  # Explicitly grant write permission to repository content
 
 jobs:
   release:
