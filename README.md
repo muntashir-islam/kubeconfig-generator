@@ -2,6 +2,8 @@
 
 A Go utility to generate kubeconfig files for Kubernetes ServiceAccounts.
 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GOLANG](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ## Overview
 
 `kubeconfig-generator` allows you to easily create kubeconfig files for ServiceAccounts in your Kubernetes cluster. This enables applications or users to authenticate to Kubernetes using a ServiceAccount identity and its associated RBAC permissions.
