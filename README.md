@@ -1,4 +1,4 @@
-# kubeconfig-generator
+# kubeconfig-generator Tool
 
 A Go utility to generate kubeconfig files for Kubernetes ServiceAccounts.
 
