@@ -85,7 +85,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v4
         with:
-          go-version: '1.20'
+          go-version: '1.24.0'
 
       # Run GoReleaser to build binaries and create release
       - name: Run GoReleaser
